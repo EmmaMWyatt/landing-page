@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+* {
+    border: 1px solid red;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.right-links {
+    display: flex;
+}
+
+.title-section {
+    display: flex;
+    justify-content: center;
+}
+
+.image-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+}
+
+.text-section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.signup-section {
+    display: flex;
+    justify-content: center;
+
+}
+.signup-container {
+    display: flex;
+    flex-direction: column;
+}
+.footer {
+    display: flex   ;
+    justify-content: center;
+}
