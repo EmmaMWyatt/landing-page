@@ -4,7 +4,6 @@
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    justify-content: space-between;
     font-family: roboto , sans-serif;
 
 }
@@ -13,6 +12,8 @@
     border: 1px solid red;
 }
 */
+
+/* header section */
 .header {
     display: flex;
     justify-content: space-between;
@@ -41,6 +42,7 @@ a {
     color: #E5E7EB;
 }
 
+/* title section */
 .title-section {
     display: flex;
     justify-content: center;
@@ -73,6 +75,7 @@ button{
 img {
     border-radius: 30px;
 }
+/* image section */
 .image-section {
     display: flex;
     flex-direction: column;
@@ -103,6 +106,7 @@ img {
     flex-direction: column;
     align-items: center;
 }
+/*text section */
 
 .text-section {
     display: flex;
@@ -111,6 +115,7 @@ img {
     background-color: #E5E7EB;
     padding-bottom: 80px;
 }
+
 .quote {
     padding-top: 80px;
     font-size: 36px;
@@ -124,6 +129,8 @@ img {
     margin-top: 10px;
     margin-left: 30%;
 }
+
+/*signup section */
 .signup-section {
     display: flex;
     justify-content: space-between;
@@ -153,6 +160,8 @@ img {
     border: 5px solid #E5E7EB;
     margin-right: 10%;
 }
+
+/* footer */ 
 .footer {
     display: flex;
     justify-content: center;
