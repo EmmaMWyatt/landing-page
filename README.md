@@ -7,3 +7,6 @@ Photo by Tristan Pokornyi: https://www.pexels.com/photo/aurora-borealis-during-n
 
 Photo by Olivier Darny: https://www.pexels.com/photo/man-in-black-and-gray-striped-long-sleeve-shirt-standing-near-body-of-water-4081117/
 
+Photo by Ignacio Palés: https://www.pexels.com/photo/winter-animal-grass-fur-2940506/
+
+Photo by Sofia: https://www.pexels.com/photo/wood-water-boats-summer-9023589/

@@ -32,6 +32,8 @@
 }
 .right-links {
     display: flex;
+    align-items: center;
+    justify-content: center;
     list-style: none;
     font-size: 18px;
     gap: 18px;
