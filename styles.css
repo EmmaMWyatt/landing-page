@@ -44,11 +44,12 @@ a {
 .title-section {
     display: flex;
     justify-content: center;
+    gap: 90px;
     background-color: #0d355a;
 }
 .title-container {
     font-size: 48px;
-    margin-right: 20%;
+    margin-left: 20%;
     font-weight: bolder;
     color : #f9FAF8;
 }
@@ -66,9 +67,11 @@ button{
     background-color: #3882F6;
 }
 .main-image {
-    border-radius: 10px;
+    margin-right: 20%;
 }
-
+img {
+    border-radius: 30px;
+}
 .image-section {
     display: flex;
     flex-direction: column;
